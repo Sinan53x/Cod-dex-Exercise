@@ -1,4 +1,4 @@
 import wikipedia
 
-wikipedia.search('Python (programming language)')
+print(wikipedia.summary('Python (programming language)'))
 
